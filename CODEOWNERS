@@ -1,0 +1,10 @@
+# Asignar responsabilidad total del repositorio
+* @OswaldMo
+
+# Responsable de los notebooks
+*.ipynb @OswaldMo
+
+# Responsable de los archivos de configuración
+requirements.txt @OswaldMo
+.github/ @OswaldMo
+
